@@ -1,0 +1,22 @@
+{
+  "name": "time-to-leave-visualiser",
+  "version": "1.0.0",
+  "description": "Visualise time to leave database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvigerzi/time-to-leave-visualiser.git"
+  },
+  "author": "Brayden Vigerzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvigerzi/time-to-leave-visualiser/issues"
+  },
+  "homepage": "https://github.com/bvigerzi/time-to-leave-visualiser#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

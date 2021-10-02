@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Time To Leave database
+time_to_leave.ttldb
